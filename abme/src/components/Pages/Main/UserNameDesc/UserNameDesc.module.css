@@ -1,0 +1,8 @@
+.skin{
+    font-size: min(1.82292vw, 3.24074vh);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #8C8C8C;
+    font-family: TITSB;
+}

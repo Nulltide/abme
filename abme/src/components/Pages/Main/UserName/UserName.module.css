@@ -1,0 +1,11 @@
+.skin{
+    width: 100%;
+    height: 100%;
+    font-size: min(7.8125vw, 13.88889vh);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #8C8C8C;
+    font-family: TITSB;
+    overflow-y: hidden;
+}

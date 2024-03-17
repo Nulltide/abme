@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+#root{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(22,22,22,1) 100%);
+    width: 100vw;
+    height: 100vh;
+}
+
+@font-face {
+    font-family: TITSB;
+    src: url('./fonts/TitilliumWeb-SemiBold.ttf');
+}

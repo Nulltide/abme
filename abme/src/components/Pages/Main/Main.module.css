@@ -1,0 +1,43 @@
+.UserPicBlock{
+    width: 25vw;
+    height: 38.03704vh;
+    overflow-y: hidden;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+.UserDescBlock{
+    width: 25vw;
+    overflow-y: hidden;
+    margin: auto;
+}
+
+.UserNameBlock{
+    width: 25vw;
+    height: 13vh;
+    margin: auto;
+}
+
+.UserSvgBlock{
+    width: 25vw;
+    height: 20vh;
+    margin: auto;
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FadeLine{
+    width: 100vw;
+    height: 0.5vh;
+    display: flex;
+    position: absolute;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(92,92,92,1) 50%, rgba(153,153,153,0) 100%);
+    top: 25%;
+    z-index: 1;
+}
